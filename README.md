@@ -30,6 +30,7 @@ Let's connect! You can find me on:
 
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/40px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/marzia-canzaniello-0253081a1/)
 [![GitHub](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/40px-Octicons-mark-github.svg.png)](https://github.com/marziacanzaniello)
+[![ORCID](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/40px-ORCID_iD.svg.png)](https://orcid.org/0009-0008-3382-9890)
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to chat!
 
