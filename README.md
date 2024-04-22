@@ -10,16 +10,22 @@ You can click the Preview link to take a look at your changes.
 
 Hey there! I'm Marzia, a PhD Student in Artificial Intelligence at @[modal](https://www.labdma.unina.it) @[unina](https://www.unina.it/).
  
-I'm currently working on Graph Neural Networks, and I'm excited to share my projects and contributions with you.
+I'm currently working on Graph Neural Networks and Generative Adversarial Networks, and I'm excited to share my projects and contributions with you.
 
 ## Projects
 
 Here are some highlights of my projects:
 
-1. **GRAPHITE**: Generative Reasoning and Analysis for Predictive Handling in Traffic Efficiency.
+1. **On the Dynamics of Non-IID Data in Federated Learning and High-Performance Computing**
+   - https://doi.org/10.1109/PDP62718.2024.00039
+
+2. **Benchmarking Federated Learning on High-Performance Computing**: Aggregation Methods and Their Impact.
+   - https://doi.org/10.1109/PDP62718.2024.00036
+
+3. **GRAPHITE**: Generative Reasoning and Analysis for Predictive Handling in Traffic Efficiency.
    - https://doi.org/10.1016/j.inffus.2024.102265
 
-2. **GNN in Emergency Management**: A Case Study on Fire Call Assignment.
+4. **GNN in Emergency Management**: A Case Study on Fire Call Assignment.
    - https://doi.org/10.1109/DASC/PiCom/CBDCom/Cy59711.2023.10361298
 
 Feel free to explore more of my projects on my [GitHub repositories](https://github.com/marziacanzaniello).
